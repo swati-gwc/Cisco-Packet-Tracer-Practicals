@@ -9,7 +9,7 @@ Tools like Packet tracer are used for practice labs and help students to take th
 It contains the lab experiments performed on Cisco Packet Tracer.</br> You can download these .pkt files and run them on cisco packet tracer on your laptop/desktop and play around with the network topology, designs, etc that has already been created.
 
 ### How to use this repo: 
-Make sure you have Cisco Packter tracer installed on your local machine (laptop, desktop). Then go to any .pkt file that you want to see, use or try on your Packet Tracer. Click on download button to download that file. After intsllation you will be able to open it on your Packet Tracer and make changes to it.
+Make sure you have Cisco Packter tracer installed on your local machine (laptop, desktop). Then go to any .pkt file that you want to see, use or try on your Packet Tracer. Click on download button to download that file. After installation, you will be able to open it on your Packet Tracer and make changes to it.
 
 ### List of experiments :
 1. [Configure telnet on Switch](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/TelnetConfigFor%20Switch.pkt)
