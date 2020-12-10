@@ -1,20 +1,13 @@
-INSTRUCTIONS
+## INSTRUCTIONS
 
 
-CLI OF ROUTER 
+### CLI OF ROUTER 
 
-Would you like to enter the initial configuration dialog? [yes/no]: n
-
+Would you like to enter the initial configuration dialog? [yes/no]: n 
 
 Press RETURN to get started!
 
-
-
 Router>en
-Router#hostname R1
-                ^
-% Invalid input detected at '^' marker.
-	
 Router#conf t
 Enter configuration commands, one per line.  End with CNTL/Z.
 Router(config)#hostname R1
