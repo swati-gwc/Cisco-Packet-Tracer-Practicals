@@ -1,5 +1,9 @@
 # Cisco Packet Tracer Practicals
 
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Important%20Cisco%20Packet%20Tracer%20Practicals%20created%20by%20Swati%20Tripathi.%20Go%20and%20Check%20it%20out%20here:&url=https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals&hashtags=ccna,ciscopackettracer,telnet,router,switch)
+<br>
+:star: Star us on GitHub — it helps!
+
 ### About Packet Tracer: </br>
 Packet Tracer is an important tool because it is an essential part of preparing for networking exams like the CCNA. Cisco certifications like the CCNA require candidates to complete practice labs, virtual environments that imitate a live networking environment.</br>
 
