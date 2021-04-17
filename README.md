@@ -12,40 +12,25 @@ It contains the lab experiments performed on Cisco Packet Tracer.</br> You can d
 Make sure you have Cisco Packter tracer installed on your local machine (laptop, desktop). Then go to any .pkt file that you want to see, use or try on your Packet Tracer. Click on download button to download that file. After installation, you will be able to open it on your Packet Tracer and make changes to it.
 
 ### List of experiments :
-1. [Configure telnet on Switch](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/TelnetConfigFor%20Switch.pkt)
-2. [DNS, DHCP and HTTP Server configuration](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/DNS%2BDHCP%2BHTTP%20Configuration.pkt)
-3. [WLAN configuration](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/SETUP%20WLAN.pkt)
+
+1. [DNS, DHCP and HTTP Server configuration](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/DNS%2BDHCP%2BHTTP%20Configuration.pkt)
+2. [TELNET on Router](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/telnetOnRouter.pkt)
+3. [TELNET on Switch](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/TelnetConfigFor%20Switch.pkt)
+4. [WLAN configuration](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/SETUP%20WLAN.pkt)
+
+### YouTube Videos (Step By Step Tutorials on following topics)
+
+1. [Telnet on Switch](https://youtu.be/hP7mrNW9HFo)
+2. [Telnet on Router](https://youtu.be/lpBblkiUUuU)
+
+### Read Blogs Written By Me
+
+1. [Telnet on Switch](https://swatispeaks.medium.com/configure-telnet-on-switch-in-cisco-packet-tracer-48b4473da2f8)
+
+
 
 ### Want to Contribute?</br>
-Feel free to open an issue if you think there is any changes or addition required in this repo.
-Then make a PR and help everyone around who want to learn packet tracer.
-
-### Steps to make a PR
-
-> - Make sure you open an issue first before making your pull request
-> - Make sure you give a meaningful name to whatever file or folder you are adding
-
-* Step 1: Fork the repo and Go to your Git terminal and  clone it on your machine.
-* Step 2: Add a upstream link to main branch in your cloned repo
-    ```
-    git remote add upstream https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals.git 
-    ```
-* Step 3: Keep your cloned repo upto date by pulling from upstream (this will also avoid any merge conflicts while committing new changes)
-    ```
-    git pull upstream main https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals.git
-    ```
-* Step 4: Create your feature branch
-    ```
-    git checkout -b <feature-name>
-    ```
-* Step 5: Commit all the changes
-    ```
-    git commit -m "Write a meaningfull but small commit message"
-    ```
-* Step 6: Push the changes for review
-    ```
-    git push origin <branch-name>
-    ```
-* Step 7: Create a PR on Github.
-
+Feel free to open an issue if you think there is any error, changes or addition required in this repo.
+Then make a PR and help everyone around who want to learn packet tracer. 
+Before proceeding you MUST read CONTRIBUTING.md
 
