@@ -19,9 +19,10 @@ Make sure you have Cisco Packter tracer installed on your local machine (laptop,
 
 1. [DNS, DHCP and HTTP Server configuration](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/DNS%2BDHCP%2BHTTP%20Configuration.pkt)
 2. [DNS Configuration](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/dnsConfiguration.pkt)
-3. [TELNET on Router](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/telnetOnRouter.pkt)
-4. [TELNET on Switch](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/TelnetConfigFor%20Switch.pkt)
-5. [WLAN configuration](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/SETUP%20WLAN.pkt)
+3. [Http Server Configuration](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/HttpServerConfiguration.pkt)
+4. [TELNET on Router](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/telnetOnRouter.pkt)
+5. [TELNET on Switch](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/TelnetConfigFor%20Switch.pkt)
+6. [WLAN configuration](https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals/blob/master/SETUP%20WLAN.pkt)
 
 ### YouTube Videos (Step By Step Tutorials on following topics)
 
